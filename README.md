@@ -2,7 +2,7 @@
 A simple and responsive calendar application that allows you to schedule your work day by adding tasks and events during specific hours. Your data is saved to the browser's local storage so that it persists even after you close the browser.
 
 ## App View
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![Screenshot of my project](assets\Screenshot.png)
 
 ## Features
 Displays the current date at the top of the calendar

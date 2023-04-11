@@ -2,7 +2,7 @@
 A simple and responsive calendar application that allows you to schedule your work day by adding tasks and events during specific hours. Your data is saved to the browser's local storage so that it persists even after you close the browser.
 
 ## App View
-![Screenshot of my project](assets\Screenshot.png)
+![Screenshot of my project](https://github.com/Timmackie/work-day-planner/blob/main/assets/Screenshot.png)
 
 ## Features
 Displays the current date at the top of the calendar

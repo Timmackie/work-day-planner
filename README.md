@@ -34,7 +34,7 @@ When you re-load the page the text area will be clear.
 
 ## Links
 GitHub Repository - https://github.com/Timmackie/work-day-planner
-Live Application - 
+Live Application - https://timmackie.github.io/work-day-planner/
 
 ## License
 This project is available under the MIT License.
